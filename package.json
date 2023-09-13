@@ -1,0 +1,28 @@
+{
+  "name": "wedding-list",
+  "version": "0.0.1",
+  "description": "Proyecto para mostrar y gestionar una lista de bodas vinculado con Notion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "wedding",
+    "guest",
+    "list",
+    "notion"
+  ],
+  "author": "Jorge Sainz de la Maza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "nodemon": "^3.0.1",
+    "sass": "^1.66.1",
+    "standard": "^17.1.0"
+  }
+}
